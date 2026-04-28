@@ -1,6 +1,3 @@
-# 💫 About Me:
-Currently working on real-time data pipelines and distributed systems 🚀<br>Preparing for a Master’s in Data Science 🎓📊
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreatsilogiannis) 
